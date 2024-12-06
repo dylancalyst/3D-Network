@@ -51,9 +51,10 @@ A documentação completa do sistema está disponível nos seguintes arquivos:
 
 Para suporte técnico, entre em contato com nossa equipe de suporte:
 
-- Email: suporte@3dnetworkmonitor.com
-- Telefone: +55 (11) 1234-5678
-- Portal de Suporte: https://suporte.3dnetworkmonitor.com
+- E-mail: suporte@ferreiratecnologia.com.br
+- E-mail: suporte@ferreiratecnologia.com.br
+- Telefone: +55 (71) 98747-9006
+- Portal de Suporte: https://ferreiratecnologia.com.br
 
 ## Contribuição
 
@@ -65,7 +66,7 @@ Este software é licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo LI
 
 ## Autores
 
-3D Network Monitor é desenvolvido e mantido pela equipe da Network Solutions Inc.
+3D Network foi desenvolvido por Renilson S. Ferreira e mantido pela equipe da RSF Tecnologia.
 
 ## Agradecimentos
 
@@ -73,5 +74,5 @@ Agradecemos a todos os colaboradores e à comunidade open-source pelas ferrament
 
 ---
 
-© 2023 Network Solutions Inc. Todos os direitos reservados.
+© 2024 3D Network. Todos os direitos reservados.
 
