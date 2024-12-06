@@ -66,7 +66,7 @@ Este software é licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo LI
 
 ## Autores
 
-3D Network foi desenvolvido por Renilson S. Ferreira e mantido pela equipe da RSF Tecnologia em Geral.
+3D Network Monitor foi desenvolvido por Renilson S. Ferreira e mantido pela equipe da RSF Soluções & Tecnologias em Geral.
 
 ## Agradecimentos
 
@@ -74,5 +74,5 @@ Agradecemos a todos os colaboradores e à comunidade open-source pelas ferrament
 
 ---
 
-© 2024 3D Network. Todos os direitos reservados.
+© 2024 3D Network Monitor Inc. Todos os direitos reservados.
 
