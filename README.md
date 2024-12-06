@@ -66,7 +66,7 @@ Este software é licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo LI
 
 ## Autores
 
-3D Network foi desenvolvido por Renilson S. Ferreira e mantido pela equipe da RSF Tecnologia.
+3D Network foi desenvolvido por Renilson S. Ferreira e mantido pela equipe da RSF Tecnologia em Geral.
 
 ## Agradecimentos
 
