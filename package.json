@@ -1,0 +1,42 @@
+{
+  "name": "3d-network-monitor",
+  "version": "1.0.0",
+  "dependencies": {
+    "@prisma/client": "^4.14.1",
+    "3d-force-graph": "^1.71.4",
+    "bcrypt": "^5.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.0",
+    "net-snmp": "^3.5.2",
+    "next": "^15.0.3",
+    "node-nmap": "^4.0.0",
+    "nodemailer": "^6.9.3",
+    "pdfkit": "^0.13.0",
+    "ping": "^0.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.6.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "swr": "^2.1.5",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/node": "^20.2.5",
+    "@types/nodemailer": "^6.4.8",
+    "@types/pdfkit": "^0.12.8",
+    "@types/react": "^18.2.7",
+    "@types/three": "^0.152.1",
+    "nodemon": "^2.0.7",
+    "prisma": "^4.14.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "monitor": "nodemon server/monitor.js"
+  }
+}
